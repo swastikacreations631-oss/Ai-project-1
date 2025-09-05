@@ -1,0 +1,10 @@
+streamlit==1.37.1
+gTTS==2.5.3
+moviepy==1.0.3
+Pillow==10.4.0
+requests==2.32.3
+numpy==2.0.1
+imageio==2.35.1
+imageio-ffmpeg==0.4.9
+tqdm==4.66.5
+# You also need ffmpeg installed on the system (separate binary)
